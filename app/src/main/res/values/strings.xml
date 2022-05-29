@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AzatikApp</string>
+    <string name="invalid_permission">invalid permission</string>
+</resources>
